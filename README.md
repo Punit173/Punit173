@@ -25,7 +25,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Punit173&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Punit173&limit=5&theme=discord&combine_all_yearly_contributions=true)
+
 
 ---
 ![LeetCode Stats](https://leetcode.card.workers.dev/Punit_73?theme=dark&font=baloo&extension=null)
