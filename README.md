@@ -1,4 +1,4 @@
-<img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
+
 
 <h1 align="center">💫 About Me: </h1>
 🔭 I’m currently studying in SRMIST<br><br>👨‍💻 My social media handle https://www.linkedin.com/in/punit-joshi-6402a3271/<br><br>📫 How to reach me pj0964@srmist.edu.in<br><br>
